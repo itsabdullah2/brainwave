@@ -30,7 +30,7 @@ I started to search for the idea, and I found this cool and modern UI on a websi
 - During this project, I learned how can I work on more complex design and translate it into a modern and responsive web app
 - I learned how can I organize my project file structure and writing more clean code and reusable components
 
-## 💻 Demo:
+## 💻 Demo: https://itsabdullah2.github.io/brainwave/
 
 # Getting Started with Create React App
 
