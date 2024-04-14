@@ -1,3 +1,37 @@
+## 🤖 Brainwave
+
+- A website with React and JavaScript. I built a side project to implement more complex design and training on positioning. The app is responsive. So, I focused on the positioning and responsive side.
+
+## 📦 Technologies and tools
+
+- React
+- JavaScript
+- TailwindCSS
+- React Router
+- react-just-parallax
+- scroll-lock
+
+## 🎯 Features
+
+- Very modern UI
+- Amazing and modern dropdown menu
+- Responsive web app
+- Animation
+- Effects
+- Navigating the sections through navbar
+- High performance
+
+## 👩‍🍳 The Process
+
+I started to search for the idea, and I found this cool and modern UI on a website that sells the designs, and I stared work on this cool project.
+
+## 📚 What I Learned
+
+- During this project, I learned how can I work on more complex design and translate it into a modern and responsive web app
+- I learned how can I organize my project file structure and writing more clean code and reusable components
+
+## 💻 Demo:
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
